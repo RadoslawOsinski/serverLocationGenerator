@@ -1,0 +1,1 @@
+var serverLocation = 'http://localhost:8080';
